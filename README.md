@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/72269714?s=48&v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/72269714?v=4"  />
 </div>
 
 ###
